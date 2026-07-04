@@ -1,6 +1,6 @@
 # Hi, I'm Efe Tarhan 👋
 
-Master's student in [Communication Systems](https://www.epfl.ch/education/master/programs/communication-systems/) at **EPFL**, supported by the Excellence Scholarship. I work in the [Visual Intelligence and Learning Lab (VILAB)](https://vilab.epfl.ch) with [Prof. Amir Zamir](https://vilab.epfl.ch/zamir/), supervised by [Kunal Pratap Singh](https://kunalmessi10.github.io).
+Master's student in [Communication Systems](https://www.epfl.ch/education/master/programs/communication-systems/) at **EPFL**, supported by the Excellence Scholarship. I work in the [Visual Intelligence and Learning Lab (VILAB)](https://vilab.epfl.ch) under the supervision of [Prof. Amir Zamir](https://vilab.epfl.ch/zamir/).
 
 🔬 **Research interests:** computer vision, foundation models, 3D scene understanding, multimodal learning, and signal processing.
 
